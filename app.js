@@ -58,7 +58,11 @@ var questions = [
     new Question("Muscles contain speacial protein called... that help in muscle movement.",["Receptor proteins","Enzymes","Nucleoprotein(DNA,RNA)","Contractile protein(actin and myosin)"],"Contractile protein(actin and myosin)"),
     new Question("In human digestive system, which organ secretes enzyme pepsin ?",["Pancreas","Stomach","Liver","Gall Bladder"],"Stomach"),
     new Question("In which of the following process Pyruvate is converted into alcohol and CO2 ?",["Aeribic respiration","Glycosis","Fermentation","Kreb's cycle"],"Fermentation"),
-    new Question("Which of the following instrument is used in measuring blood pressure ?",["Sphygmomanometer","Thermometer","Stethescope","Hydrometer"],"Sphygmomanometer")
+    new Question("Which of the following instrument is used in measuring blood pressure ?",["Sphygmomanometer","Thermometer","Stethescope","Hydrometer"],"Sphygmomanometer"),
+    new Question("An element which has 2 electrons less than that in Ne is -",["Mg","Na","O","F"],"O"),
+    new Question("One of the major component in Compressed Natural gas (CNG) is ",["Methane","Carbon dioxide","water gas","acetylene"],"Methane"),
+    new Question("A Daniel cell converts:",["Electrical Energy into Chemical energy","Chemical energy into Electrical Energy","Mechanical Energy into Electrical Energy","None of the all"],"Chemical energy into Electrical Energy"),
+  
         
 ];
 
