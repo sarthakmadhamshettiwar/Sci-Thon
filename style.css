@@ -1,8 +1,7 @@
 body {
     margin: 0;
     padding: 0;
-    background: url(sci.jpg);
-    opacity: 0.5;
+    background: url(math.jpg);
     background-size: cover; 
     background-position: center;
     font font-family: sans-serif;}
@@ -12,6 +11,7 @@ body {
     height: 600px;
     margin: 0 auto;
     background-color: black;
+    opacity: 0.8;
     padding: 10px 50px 50px 50px;
     border-radius: 50px;
     border: 2px solid #cbcbcb;
